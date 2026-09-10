@@ -1,0 +1,6 @@
+{
+  "name": "Sela Tire MES",
+  "description": "Manufacturing Execution System for tire production monitoring, daily shift output tracking, machine OEE, and factory analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
